@@ -2,7 +2,7 @@
 Script Para Bot de whatsapp em Multi Device
 
 <p align="center">
-	<img src="https://telegra.ph/file/bca748e9c51bd09063516.png" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/48f4996b6ef4995ab79ec.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Ghost-Js</h1>
 
